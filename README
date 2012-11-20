@@ -1,0 +1,2 @@
+An implementation of Dijkstra's shortest path pathfinding algorithm in Python.
+Usage: python solver.py [INPUT] [START] [END]
